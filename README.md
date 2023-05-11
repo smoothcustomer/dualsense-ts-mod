@@ -1,6 +1,6 @@
-# dualsense-ts
+# dualsense-ts-mod
 
-This module provides a natural interface for your DualSense controller.
+This module provides a natural interface for your DualSense controller. Updating to add destroy functionality.
 
 ## Getting started
 
